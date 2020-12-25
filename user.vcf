@@ -1,14 +1,14 @@
 BEGIN:VCARD
 VERSION:3.0
-PRODID:-//Apple Inc.//iPhone OS 11.2.2//EN
-N:Lim;Preston;;;
-FN: Preston  Lim 
-ORG:GovTech;
+PRODID:-//Android //10.or E//EN
+N:syed;Anas;;;
+FN: Syed Mohammed Anas
+ORG:Desktoppublisher.in;
 TITLE:Associate Software Engineer\nProducts Team, Data Science Division
-EMAIL;type=INTERNET;type=WORK;type=pref:preston@data.gov.sg
-TEL;type=WORK;type=VOICE:+65 9123 4567
-item1.ADR;type=WORK;type=pref:;;1 Fusionopolis View\nSandcrawler\, 09-01;;;138577;Singapore
+EMAIL;type=INTERNET;type=WORK;type=pref:syedanas.570@gmail.com
+TEL;type=WORK;type=VOICE:+91 9742396914
+item1.ADR;type=WORK;type=pref:;; Bangalore\n,;;;125\,25th main\, peenya 2nd stage rajgopalnagar;India
 item1.X-ABADR:sg
-item2.URL;type=pref:tech.gov.sg
+item2.URL;type=pref:Desktoppublisher.in
 item2.X-ABLabel:_$!<HomePage>!$_
 END:VCARD
